@@ -27,6 +27,13 @@ if __name__ == '__main__':
 
 
 
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+
+
+
 
 <!--
 **Herinyhert/Herinyhert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
