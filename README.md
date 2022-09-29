@@ -23,6 +23,7 @@ if __name__ == '__main__':
     me = Herinyhert()
 
 
+![image](https://user-images.githubusercontent.com/98710507/193155783-6128eb39-ed53-4274-b049-d8327be22a12.png)
 
 
 
@@ -34,21 +35,4 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 
 
-https://user-images.githubusercontent.com/97762358/192671143-27f1ca55-6c23-4238-955b-31c141893646.gif
 
-
-
-<!--
-**Herinyhert/Herinyhert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
