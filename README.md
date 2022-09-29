@@ -3,7 +3,7 @@
 class Herinyhert:
 
     def __init__(self):
-        self.username = 'Herinyhert'
+        self.username = 'herinyhert'
         self.name = 'Herinyhert Martinez'
         self.linkeding = '[https://rafnixg.dev](https://www.linkedin.com/in/herinyhert-martinez-7b5183126/)'
         self.code = {
