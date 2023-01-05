@@ -1,7 +1,7 @@
 ### Hello World!👋👨🏾‍💻
 
 
-![image](https://media-exp1.licdn.com/dms/image/D4D16AQGm-DtICHeWzg/profile-displaybackgroundimage-shrink_350_1400/0/1664324987520?e=1670457600&v=beta&t=TJiw-C4eEt7MBoJMNS3i9cDmvCVsWL5mLnMES_6r6sU)
+![image](https://media.licdn.com/dms/image/D4D16AQGm-DtICHeWzg/profile-displaybackgroundimage-shrink_350_1400/0/1664324987520?e=1678320000&v=beta&t=F_ncuaLthRA16BHNMo-jrtozBXNXsFGgLEbPWlp5WBQ)
 
 
 ### About me in code
