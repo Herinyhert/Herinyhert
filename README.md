@@ -12,9 +12,9 @@ class Herinyhert:
         self.name = 'Herinyhert Martinez'
         self.linkeding = '[https://rafnixg.dev](https://www.linkedin.com/in/herinyhert-martinez-7b5183126/)'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Styled Components', 'Boostrap', 'Typescript'],
-            'backend': [ 'Typescript', 'NodeJS'],
-            'database': ['PostgreSQL', 'Prisma', 'SQLite3'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Styled Components', 'Boostrap', 'Typescript', 'Vue.js'],
+            'backend': [ 'Typescript', 'NodeJS', 'NestJS'],
+            'database': ['PostgreSQL', 'Prisma', 'SQLite3', 'MongoDB'],
             'devops': ['Docker', 'Nginx', 'Railway', 'Vercel', 'AWS', 'Heroku'],
             'tools': ['GIT', 'GitHub'],
             'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
