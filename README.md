@@ -1,7 +1,7 @@
 ### Hello World!👋👨🏾‍💻
 
 
-![image](https://media.licdn.com/dms/image/D4D16AQGm-DtICHeWzg/profile-displaybackgroundimage-shrink_350_1400/0/1664324987520?e=1685577600&v=beta&t=5CYxvGHaM6TaVBVJYZo0U7S98REgEGGTTKU8v9g1-AE)
+![Banner de LinkedIn Tecnología Negro](https://github.com/Herinyhert/Calculate-infix-a-postfix/assets/98710507/d9767783-cd64-4004-b4d6-a810c0a43907)
 
 
 ### About me in code
